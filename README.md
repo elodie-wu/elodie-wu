@@ -39,7 +39,7 @@ A small collection of AI experiments:
 
 React + .NET portfolio website with backend and admin features.
 
-→ [view website](www.elodiewu.com)
+→ [view website](https://www.elodiewu.com)
 
 **📈 Stock Prediction**
 
@@ -66,4 +66,4 @@ Playing with financial data and ML models for stock prediction.
 
 ### find me
 
-[LinkedIn](www.linkedin.com/in/elodie-wu) · [Portfolio](www.elodiewu.com) · [Email](mailto:elodie.wu@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/elodie-wu) · [Portfolio](https://www.elodiewu.com) · [Email](mailto:elodie.wu@outlook.com)
