@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/1.gif" width="220" />
+<img src="./assets/9.gif" width="220" />
 
 # hi, i'm di 👋
 
@@ -50,7 +50,6 @@ Playing with financial data and ML models for stock prediction.
 ---
 
 ### tech i use
-
 
 `C#` `.NET` `ASP.NET Core` `PostgreSQL` `RabbitMQ`  
 `Python` `PyTorch` `Scikit-learn` `YOLO`  
