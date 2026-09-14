@@ -41,9 +41,9 @@ React + .NET portfolio website with backend and admin features.
 
 → [view website](https://www.elodiewu.com)
 
-**📈 Stock Prediction**
+**📈 Stock Prediction & RL Trading**
 
-Playing with financial data and ML models for stock prediction.
+Exploring stock prediction with supervised learning and a simple Q-learning trading agent.
 
 → [view repository](https://github.com/elodie-wu/ai-stock-price-prediction)
 
